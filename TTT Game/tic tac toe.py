@@ -1,5 +1,8 @@
 # --------- Global Variables -----------
 
+#comments added vimalprogrammer
+#see how you liked it!
+
 # Will hold our game board data
 board = ["-", "-", "-",
          "-", "-", "-",
